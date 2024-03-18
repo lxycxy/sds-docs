@@ -1,10 +1,9 @@
 import { defaultTheme } from '@vuepress/theme-default'
-import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
-
+import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
-  lang: 'zh-CN',
 
+  lang: 'zh-CN',
   title: '学生学业与发展评价系统',
   description: '用户手册',
 
@@ -14,7 +13,19 @@ export default defineUserConfig({
       {
         text: '首页',
         link: '/'
-      }
+      },
+      {
+        text: '教师端',
+        link: '/teacher/'
+      },
+      {
+        text: '学生端',
+        link: '/student/'
+      },
+      {
+        text: '联系我们',
+        link: '/contact/'
+      } 
     ],
     sidebar: {
       '/teacher/': [
@@ -28,6 +39,10 @@ export default defineUserConfig({
       ]
     }
   }),
-
+  plugins: [
+    ['@vuepress/search', {
+      searchMaxSuggestions: 10
+    }]
+  ],
   bundler: viteBundler(),
 })

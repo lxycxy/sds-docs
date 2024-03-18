@@ -1,5 +1,5 @@
 import comp from "C:/Users/lixingyang/Desktop/sds-docs/docs/.vuepress/.temp/pages/teacher/index.html.vue"
-const data = JSON.parse("{\"path\":\"/teacher/\",\"title\":\"教师端用户手册\",\"lang\":\"zh-CN\",\"frontmatter\":{\"lang\":\"zh-CN\",\"title\":\"教师端用户手册\",\"description\":\"教师端用户手册\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"teacher/README.md\"}")
+const data = JSON.parse("{\"path\":\"/teacher/\",\"title\":\"教师端用户手册\",\"lang\":\"zh-CN\",\"frontmatter\":{\"lang\":\"zh-CN\",\"title\":\"教师端用户手册\",\"description\":\"教师端用户手册\"},\"headers\":[],\"git\":{\"updatedTime\":1710557322000,\"contributors\":[{\"name\":\"lxy\",\"email\":\"lxy2914344878@163.com\",\"commits\":1}]},\"filePathRelative\":\"teacher/README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
