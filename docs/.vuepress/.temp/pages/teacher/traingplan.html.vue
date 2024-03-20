@@ -21,6 +21,12 @@
 </div>
 <p>在小窗左上角，可将培养方案导出为PDF文件进行查看</p>
 <p><img src="/assets/view-traingplan.png" alt="view-traingplan"></p>
+<h2 id="学生能力评估" tabindex="-1"><a class="header-anchor" href="#学生能力评估"><span>学生能力评估</span></a></h2>
+<p>系统通过培养方案给定的学生能力以及绑定的毕业要求指标点来对进行学生能力进行评估</p>
+<p><img src="/assets/ability-traingplan.png" alt="ability-traingplan"></p>
+<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<p>您需要先添加能力评估，输入能力名称和对应的能力的描述。随后再将毕业要求指标点与您定义的能力进行绑定</p>
+</div>
 </div></template>
 
 

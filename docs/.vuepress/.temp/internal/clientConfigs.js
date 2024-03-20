@@ -6,7 +6,8 @@ import clientConfig4 from 'C:/Users/lixingyang/Desktop/sds-docs/node_modules/@vu
 import clientConfig5 from 'C:/Users/lixingyang/Desktop/sds-docs/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig6 from 'C:/Users/lixingyang/Desktop/sds-docs/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig7 from 'C:/Users/lixingyang/Desktop/sds-docs/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig8 from 'C:/Users/lixingyang/Desktop/sds-docs/docs/.vuepress/client.js'
+import clientConfig8 from 'C:/Users/lixingyang/Desktop/sds-docs/node_modules/@vuepress/plugin-search/lib/client/config.js'
+import clientConfig9 from 'C:/Users/lixingyang/Desktop/sds-docs/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -18,4 +19,5 @@ export const clientConfigs = [
   clientConfig6,
   clientConfig7,
   clientConfig8,
+  clientConfig9,
 ]

@@ -43,3 +43,13 @@ description: 培养相关功能
 在小窗左上角，可将培养方案导出为PDF文件进行查看
 
 ![view-traingplan](/assets/view-traingplan.png)
+
+## 学生能力评估
+
+系统通过培养方案给定的学生能力以及绑定的毕业要求指标点来对进行学生能力进行评估
+
+![ability-traingplan](/assets/ability-traingplan.png)
+
+::: tip
+您需要先添加能力评估，输入能力名称和对应的能力的描述。随后再将毕业要求指标点与您定义的能力进行绑定
+:::
