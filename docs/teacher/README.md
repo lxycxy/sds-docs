@@ -7,4 +7,6 @@ description: 教师端用户手册
 
 
 
-## [培养方案](/teacher/traingplan.html)
+## 1. [培养方案](/teacher/traingplan.html)
+## 2. [课程大纲](/teacher/course_outline.html)
+## 3. [教师管理](/teacher/teacher_manage.html)

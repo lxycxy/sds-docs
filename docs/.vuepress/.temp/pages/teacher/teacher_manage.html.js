@@ -1,0 +1,3 @@
+import comp from "C:/Users/lixingyang/Desktop/sds-docs/docs/.vuepress/.temp/pages/teacher/teacher_manage.html.vue"
+const data = JSON.parse("{\"path\":\"/teacher/teacher_manage.html\",\"title\":\"教师管理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"lang\":\"zh-CN\",\"title\":\"教师管理\",\"description\":\"教师管理相关功能\"},\"headers\":[{\"level\":2,\"title\":\"前言\",\"slug\":\"前言\",\"link\":\"#前言\",\"children\":[]},{\"level\":2,\"title\":\"添加教师信息\",\"slug\":\"添加教师信息\",\"link\":\"#添加教师信息\",\"children\":[]},{\"level\":2,\"title\":\"删除教师信息\",\"slug\":\"删除教师信息\",\"link\":\"#删除教师信息\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"teacher/teacher_manage.md\"}")
+export { comp, data }

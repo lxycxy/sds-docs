@@ -4,7 +4,7 @@ title: 培养方案
 description: 培养相关功能
 ---
 
-# 培养方案
+<h1 style="text-align: center">培养方案</h1>
 
 ## 添加培养方案
 添加培养方案可以点击图中两个按钮

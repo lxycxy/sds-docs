@@ -43,7 +43,9 @@ export default defineUserConfig({
           title: '教师端',
           collapsable: false,
           children: [
-            '/teacher/traingplan'
+            '/teacher/traingplan',
+            '/teacher/course_outline',
+            '/teacher/teacher_manage'
           ]
         }
       ]

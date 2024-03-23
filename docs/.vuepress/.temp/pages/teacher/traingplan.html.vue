@@ -1,4 +1,4 @@
-<template><div><h1 id="培养方案" tabindex="-1"><a class="header-anchor" href="#培养方案"><span>培养方案</span></a></h1>
+<template><div><h1 style="text-align: center">培养方案</h1>
 <h2 id="添加培养方案" tabindex="-1"><a class="header-anchor" href="#添加培养方案"><span>添加培养方案</span></a></h2>
 <p>添加培养方案可以点击图中两个按钮</p>
 <p><img src="/assets/add-traingplan.png" alt="add traingplan"></p>
